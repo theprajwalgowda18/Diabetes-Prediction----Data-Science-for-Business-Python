@@ -1,5 +1,7 @@
 # Project-Data-Science-for-Business
 
+DIABETES PREDICTION
+
 PROBLEM STATEMENT:
 Diabetes is among the most prevalent chronic diseases in the United States, impacting millions of Americans each year and exerting a significant financial burden on the economy.
 Diabetes is a serious chronic disease in which individuals lose the ability to effectively regulate levels of glucose in the blood, and can lead to reduced quality of life and life expectancy.
