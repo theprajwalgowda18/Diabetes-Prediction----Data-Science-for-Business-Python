@@ -8,3 +8,7 @@ Diabetes is a serious chronic disease in which individuals lose the ability to e
 - Undiagnosed: 8.7 million people (22.8% of adults are undiagnosed)
 - Prediabetes: Total: 97.6 million people aged 18 years or older have prediabetes (38.0% of the adult US population) 65 years or older: 27.2 million people aged 65 years or older (48.8%) 
   have prediabetes
+
+OBJECTIVE:
+- Optimize Diabetes Prediction Model for Toddlers to Teenagers
+- Minimize False Positives to Avoid Unnecessary Stress and Medical Procedures
