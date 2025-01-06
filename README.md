@@ -1,5 +1,5 @@
 Description:
-This project focuses on automating the prediction of diabetes using historical data and machine learning models, with an emphasis on reducing false positives to enhance early detection and intervention. The initiative leveraged data science methodologies to develop and evaluate models that could support healthcare professionals in identifying high-risk individuals effectively.
+	This project focuses on automating the prediction of diabetes using historical data and machine learning models, with an emphasis on reducing false positives to enhance early detection and intervention. The initiative leveraged data science methodologies to develop and evaluate models that could support healthcare professionals in identifying high-risk individuals effectively.
 
 Key Highlights:
 	Objective:
